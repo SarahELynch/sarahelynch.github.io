@@ -24,7 +24,7 @@ linkedin_username: sarah-e-lynch
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minimal
 plugins:
   - jekyll-feed
 
