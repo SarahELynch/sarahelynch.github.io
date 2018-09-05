@@ -21,7 +21,13 @@ Believe it or not, we found ourselves arguing about whether the label on a butto
 I'll explain.
 The contract comparison tool we were developing had a two-tiered goal in presenting information to the user.
 
+![Contract 1 numbers]({{site.url}}/assets/Contract 1 numbers.png)
+![Contract 2 numbers]({{site.url}}/assets/Contract 2 numbers.png)
+
 The first goal of our tool was to clearly display the two contracts to the user in a way that made it obvious which sentences corresponded between them -- in other words, the first sentence in Contract 1 should clearly correspond with the first sentence in Contract 2, the second sentence in Contract 1 should correspond with the second in Contract 2, and so on.
+
+![Contract 1]({{site.url}}/assets/Contract 1.png)
+![Contract 2 redlined]({{site.url}}/assets/Contract 2.png)
 
 The second goal of this tool was to show the user where corresponding sentences between the two contracts differed. For example, if a contract template included a sentence outlining responsibilities of the seller, but the new contract was missing that sentence, that would be highlighted, or "redlined", clearly in the contract in the tool.
 
